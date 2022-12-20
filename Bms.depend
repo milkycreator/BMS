@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1669801156 source:c:\users\karen\documents\schoolworks macky\bms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669794927 source:c:\users\karen\documents\schoolworks macky\bms\bmsjehu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
